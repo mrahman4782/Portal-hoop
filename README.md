@@ -4,6 +4,8 @@ Basketball game made with Pygame. This project is not complete and will soon be 
 ## Walkthrough
 ![](Hoop.gif)
 
+GIF created with [LiceCap](http://www.cockos.com/licecap/).
+
 ## Licenses
 
 Copyright 2021 Mohammad Rahman
